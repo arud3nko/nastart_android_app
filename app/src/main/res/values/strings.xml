@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nastart Application</string>
+    <string name="welcome_message">Добро пожаловать</string>
+    <string name="token_field_label">Введите токен авторизации</string>
+    <string name="login_button_text">Войти</string>
+    <string name="title_activity_login_form">LoginForm</string>
+    <string name="active_window_label">Активные</string>
+    <string name="completed_window_label">Завершенные</string>
+    <string name="datetime_example">31.12.23 в 19:21</string>
+    <string name="name_example">Егор</string>
+</resources>
